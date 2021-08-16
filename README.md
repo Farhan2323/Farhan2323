@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Farhan2323
+- 👀 I’m interested in JavaScript, Pyhthon, and web development.
+- 🌱 I’m currently a Engineering Pathways student at University of Illinois at Urbana Champaign.
+- 📫 How to reach me Email: Farhan2323.fa@gmail.com
