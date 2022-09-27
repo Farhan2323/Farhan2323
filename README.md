@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Farhan2323
-- 👀 I’m interested in JavaScript, Pyhthon, and web development.
+- 👀 I’m interested in JavaScript, Pyhthon, C++ and web development.
 - 🌱 I’m currently a student at Oakton Community College, and I am enrolled in the Engineering Pathways Program for UIUC.
 - 📫 How to reach me Email: Farhan2323.fa@gmail.com
