@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Farhan2323
-- 👀 I’m interested in JavaScript, Python, C++, and web development.
-- 🌱 I’m currently a student at UIUC majoring in Computer Science.
+- 👀 I’m interested in JavaScript, Python, C++, web development, and ML. Be on the look out for future projects coming soon!
+- 🌱 I’m currently a student at UIUC, majoring in Computer Science.
 - 📫 How to reach me, Email: Farhan2323.fa@gmail.com
