@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Farhan2323
 - 👀 I’m interested in JavaScript, Python, C++, web development, and ML. Be on the lookout for future projects coming soon!
-- 🌱 I recently graduated from UIUC, majoring in Computer Science.
+- 🌱 I recently graduated from UIUC with a BS in Computer Science.
 - 📫 How to reach me, Email: Farhan2323.fa@gmail.com
